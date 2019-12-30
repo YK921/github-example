@@ -1,5 +1,5 @@
 # Capstone Project - The Battle of Neighborhoods 
-
+## Data analysis for safe travel and restaurant visits in San Francisco
 
 * 1. A description of the problem and a discussion of the background. 
 
